@@ -86,3 +86,17 @@ From Employee LEFT JOIN Salary ON Salary.Staffid = Employee.Staffid
 
 ### Data Visualisation
 
+
+![SQL SCREEN 2](https://github.com/user-attachments/assets/888cbf32-b7b6-4649-bb13-350a37d2a33b)
+
+
+![SQL SCREEN 3](https://github.com/user-attachments/assets/9f07cc32-2137-470b-8a1e-271c3a745971)
+
+
+![SQL SCREEN 4](https://github.com/user-attachments/assets/7daa6d3e-f9da-43a1-afe9-6e5000d1d187)
+
+
+
+![SQL 5](https://github.com/user-attachments/assets/18a71928-1de8-463a-8042-1ce904ffe354)
+
+
